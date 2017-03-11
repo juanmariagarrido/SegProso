@@ -1,7 +1,7 @@
 # SegProso
 
-#  AUTHOR: Juan María Garrido Almiñana								
-#  VERSION: 1.0 (20/08/2012)										
+AUTHOR: Juan María Garrido Almiñana								
+VERSION: 1.0 (20/08/2012)										
 
 # Script to add prosodic segmentation to a set of TextGrid files. 
 
