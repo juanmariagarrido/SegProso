@@ -11,7 +11,7 @@
 
 # Input TextGrid flies must include two tiers containing:
 #	- orthographic transcription (words) aligned with the signal
-#	- phonetic transcription, including stress marks (IPA or SAMPA), aligned with the signal
+#	- phonetic transcription, including stress and pause marks (IPA or SAMPA), aligned with the signal
 
 # The script adds to every input TextGrid file	four tiers containing the segmentation into:
 #	- syllables									
