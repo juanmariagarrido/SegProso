@@ -582,14 +582,14 @@ else
 		else
 
 
-			if etiqueta_sonido$ = "\'1a" or etiqueta_sonido$ = "\'1\as" or etiqueta_sonido$ = "\'1\o/" or etiqueta_sonido$ = "\'1\oe" or etiqueta_sonido$ = "\'1e" or etiqueta_sonido$ = "\'1\ef" or etiqueta_sonido$ = "\'1i" or etiqueta_sonido$ = "\'1y" or etiqueta_sonido$ = "\'1o" or etiqueta_sonido$ = "\'1\ot" or etiqueta_sonido$ = "\'1u" or etiqueta_sonido$ = "\'1a\~^" or etiqueta_sonido$ = "\'1\oe\~^" or etiqueta_sonido$ = "\'1e\~^" or etiqueta_sonido$ = "\'1o\~^" or etiqueta_sonido$ = "\'1\sw"
+			if etiqueta_sonido$ = "\'1a" or etiqueta_sonido$ = "\'1\as" or etiqueta_sonido$ = "\'1\o/" or etiqueta_sonido$ = "\'1\oe" or etiqueta_sonido$ = "\'1e" or etiqueta_sonido$ = "\'1\ef" or etiqueta_sonido$ = "\'1i" or etiqueta_sonido$ = "\'1y" or etiqueta_sonido$ = "\'1o" or etiqueta_sonido$ = "\'1\ct" or etiqueta_sonido$ = "\'1u" or etiqueta_sonido$ = "\'1a\~^" or etiqueta_sonido$ = "\'1\oe\~^" or etiqueta_sonido$ = "\'1e\~^" or etiqueta_sonido$ = "\'1o\~^" or etiqueta_sonido$ = "\'1\sw" or etiqueta_sonido$ = "ˈa" or etiqueta_sonido$ = "ˈɑ" or etiqueta_sonido$ = "ˈø" or etiqueta_sonido$ = "ˈœ" or etiqueta_sonido$ = "ˈe" or etiqueta_sonido$ = "ˈɛ" or etiqueta_sonido$ = "ˈi" or etiqueta_sonido$ = "ˈy" or etiqueta_sonido$ = "ˈo" or etiqueta_sonido$ = "ˈɔ" or etiqueta_sonido$ = "ˈu" or etiqueta_sonido$ = "ˈã" or etiqueta_sonido$ = "ˈœ̃" or etiqueta_sonido$ = "ˈẽ" or etiqueta_sonido$ = "ˈõ" or etiqueta_sonido$ = "ˈə"
 
 				tipo_sonido$ = "VocalTonica"
 
 			else
 
 
-				if etiqueta_sonido$ = "\'2a" or etiqueta_sonido$ = "\'2\as" or etiqueta_sonido$ = "\'2\o/" or etiqueta_sonido$ = "\'2\oe" or etiqueta_sonido$ = "\'2e" or etiqueta_sonido$ = "\'2\ef" or etiqueta_sonido$ = "\'2i" or etiqueta_sonido$ = "\'2y" or etiqueta_sonido$ = "\'2o" or etiqueta_sonido$ = "\'2\ot" or etiqueta_sonido$ = "\'2u" or etiqueta_sonido$ = "\'2a\~^" or etiqueta_sonido$ = "\'2\oe\~^" or etiqueta_sonido$ = "\'2e\~^" or etiqueta_sonido$ = "\'2o\~^" or etiqueta_sonido$ = "\'2\sw"
+				if etiqueta_sonido$ = "\'2a" or etiqueta_sonido$ = "\'2\as" or etiqueta_sonido$ = "\'2\o/" or etiqueta_sonido$ = "\'2\oe" or etiqueta_sonido$ = "\'2e" or etiqueta_sonido$ = "\'2\ef" or etiqueta_sonido$ = "\'2i" or etiqueta_sonido$ = "\'2y" or etiqueta_sonido$ = "\'2o" or etiqueta_sonido$ = "\'2\ct" or etiqueta_sonido$ = "\'2u" or etiqueta_sonido$ = "\'2a\~^" or etiqueta_sonido$ = "\'2\oe\~^" or etiqueta_sonido$ = "\'2e\~^" or etiqueta_sonido$ = "\'2o\~^" or etiqueta_sonido$ = "\'2\sw" or etiqueta_sonido$ = "ˌa" or etiqueta_sonido$ = "ˌɑ" or etiqueta_sonido$ = "ˌø" or etiqueta_sonido$ = "ˌœ" or etiqueta_sonido$ = "ˌe" or etiqueta_sonido$ = "ˌɛ" or etiqueta_sonido$ = "ˌi" or etiqueta_sonido$ = "ˌy" or etiqueta_sonido$ = "ˌo" or etiqueta_sonido$ = "ˌɔ" or etiqueta_sonido$ = "ˌu" or etiqueta_sonido$ = "ˌã" or etiqueta_sonido$ = "ˌœ̃" or etiqueta_sonido$ = "ˌẽ" or etiqueta_sonido$ = "ˌõ" or etiqueta_sonido$ = "ˌə"
 
 					tipo_sonido$ = "VocalTonica2"
 
